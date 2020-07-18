@@ -1,2 +1,2 @@
-# solutions(problem solve on various online oj sometimes with explanation)
+# solutions(problem i solve on various online oj sometimes with explanation)
 # methods(concepts with explanation and code) 
