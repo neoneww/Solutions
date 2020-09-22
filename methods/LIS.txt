@@ -1,4 +1,0 @@
-WHY LIS IS A DP PROBLEM?
-LIS is a DP problem because what we are doing is from a particular index we are heading back from that index and seeing 
-what is the best we did it till that number we don't have to calculate again and again 
-what is the best we can do till a particular number.
